@@ -1,0 +1,21 @@
+body {
+    background: #ddd;
+}
+.main {
+    margin: 20px auto;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+.row {
+    border: 1px solid #eeeeee;
+    margin: 2px;
+    padding: 5px;
+}
+input {
+    box-sizing: border-box;
+    padding: 5px;
+}
+.list input {
+    border: 0;
+}

@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "restapi",
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
